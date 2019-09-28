@@ -14,7 +14,7 @@ console.log('Exercise 2:');
 
 for (i = 0; i < 100; i++){
     if (i % 3 === 0 && i % 5 === 0){
-        console.log(i + ' Testing git');
+        console.log(i + ' Testing Fizzbuzz');
     }
     else if (i % 3 === 0){
         console.log(i + ' Fizz');
